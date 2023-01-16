@@ -1,11 +1,12 @@
 <template>
 
-    <div style="border-bottom : 1px solid white">
+  
+    <div class="container">
+      <div style="background-color : red; position : absolute ">
         <h2 style="font-weight : 500">NOTRE PROCÉDÉ</h2> 
      </div>
-    <div class="container">
     
-      <div class="description panel blue">
+      <div class="description panel blue" style="margin-top : 2em">
        
             <h3>Compréhension <br/> des besoins</h3>
             <div style="display :flex; align-items : center; justify-content : space-around;">

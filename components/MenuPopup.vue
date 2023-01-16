@@ -1,6 +1,6 @@
 <template>
     <section>
-        <div>ok</div>
+        <NuxtLink href="../pages/blog">Blog</NuxtLink>
     </section>
 </template>
 
