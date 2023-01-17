@@ -1,4 +1,5 @@
 <template>
+
     <section id="notreApproche" class="section">
         <svg id="cercle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
             <circle r="150" cx="500" cy="500"/>

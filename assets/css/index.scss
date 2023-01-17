@@ -12,6 +12,11 @@ body {
     overflow-y: visible;
 	position: relative;
   height: unset;
+  display: block;
+  overflow:hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overflow : -moz-scrollbars-vertical;
 }
 
 html {
@@ -20,3 +25,11 @@ html {
 	-webkit-overflow-scrolling: touch;
 	overflow-scrolling: touch;
   }
+
+
+h1, h2, h3, h4 {
+  font-size : 1em; 
+  margin : 0;
+  padding : 0;
+}
+

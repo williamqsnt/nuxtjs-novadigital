@@ -3,7 +3,7 @@ export default {
         "@/assets/css/index.scss"
     ],
     modules: [
-        '@nuxtjs/color-mode', 
+        '@nuxt/content'
       
     ],
     gsap: {

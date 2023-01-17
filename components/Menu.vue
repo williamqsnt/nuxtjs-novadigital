@@ -1,7 +1,7 @@
 <template>
     <div>
         <p>switch</p>
-        <h1>Novadigital</h1>
+        <h1>Agence web Novadigital</h1>
         <button @click="showModal = true">menu</button>
         <MenuPopup v-show="showModal" />
     </div>
@@ -12,10 +12,10 @@
     
     export default {
         data() {
-    return {
-        showModal : false
-    }
-}
+            return {
+                showModal : false
+            }
+        }
     }
         
 
@@ -30,7 +30,7 @@
     }
 
     h1{
-        font-size : 1.5em;
+        font-size : 20px;
     }
 
     div{

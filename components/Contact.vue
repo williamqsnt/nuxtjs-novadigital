@@ -38,9 +38,7 @@
 </template>
 
 <script>
-    export default {
-        
-    }
+
 </script>
 
 
@@ -201,7 +199,6 @@ margin: 10% 0 0 0;
         width: 100%;
     }
 
-    
 
 
 }

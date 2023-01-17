@@ -2,13 +2,14 @@
 
   
     <div class="container">
-      <div style="background-color : red; position : absolute ">
+      <div style=" position : absolute; width : 100%; border-bottom : 1px solid white; padding : 0.25em 0 0.25em 0; margin : 1em">
         <h2 style="font-weight : 500">NOTRE PROCÉDÉ</h2> 
+        
      </div>
     
-      <div class="description panel blue" style="margin-top : 2em">
+      <div class="description panel blue">
        
-            <h3>Compréhension <br/> des besoins</h3>
+            <h3 style="margin-top : 2em">Compréhension <br/> des besoins</h3>
             <div style="display :flex; align-items : center; justify-content : space-around;">
                 <div style="width : 50%"></div>
                 <p>Chaque projet est unique et c'est pour cela qu'on nous passons par une phase de recherche afin de bien comprendre vos futurs utilisateurs.<br/> 
@@ -22,7 +23,7 @@
       </div>
   
       <section class="panel red">
-        <h3>Recherche, idéation <br/>
+        <h3 style="margin-top : 4em">Recherche, idéation <br/>
             et maquette</h3>
         <div style="display :flex; align-items : center; justify-content : space-around;">
             <div style="width : 50%"></div>
@@ -34,7 +35,7 @@
 
       </section>
       <section class="panel orange">
-        <h3>Retours et <br/>
+        <h3 style="margin-top : 4em">Retours et <br/>
             modifications</h3>
         <div style="display :flex; align-items : center; justify-content : space-around;">
             <div style="width : 50%"></div>
@@ -47,7 +48,7 @@
 
       </section>
       <section class="panel purple">
-        <h3>Intégration et <br/>
+        <h3 style="margin-top : 4em">Intégration et <br/>
             développement</h3>
         <div style="display :flex; align-items : center; justify-content : space-around;">
             <div style="width : 50%"></div>
