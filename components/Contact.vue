@@ -25,6 +25,7 @@
             <div class="colonnedroite">
                 <h3>Nos pages</h3>
                 <ul>
+                    <a></a>
                     <li>Notre approche</li>
                     <li>Notre procédé</li>
                     <li>Projets sélectionnés</li>
